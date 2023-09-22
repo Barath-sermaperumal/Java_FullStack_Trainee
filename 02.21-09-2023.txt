@@ -1,0 +1,27 @@
+HTML
+-> Input tags
+-> Inline tags
+-> tables
+-> symetic tags
+-> Audio video tags
+
+CSS
+*selectors
+->class selectors
+->id selectors
+->relational selectors
+->pseudo selectors
+->pseudo element selectors
+
+flex
+*justify content
+->flex start
+->flex end
+->center
+
+*align items
+->flex start
+->flex end
+->center
+
+developing a model web page using the flex
