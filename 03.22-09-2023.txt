@@ -1,0 +1,5 @@
+Developing an webpage template using HTML & CSS
+Actual web url : https://www.shopify.com/in/tour/ecommerce-website
+developed webpage url : https://barath-sermaperumal.github.io/Shopify/
+paddings, margins
+position fixing
