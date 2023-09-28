@@ -1,0 +1,8 @@
+InnerHTML,Innertext
+getElementById
+TODO list Application
+addEventListener
+arrow functions
+`` 
+onclick in buttons
+phone directory
