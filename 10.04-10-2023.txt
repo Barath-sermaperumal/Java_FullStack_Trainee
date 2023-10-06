@@ -1,0 +1,8 @@
+-> E-commerce site Completion:
+    -> Product edit options (Admin Page)
+    -> Cart (Updation)
+    -> Few Functionalities added such as validation, userID, session handling, search with keywords
+    -> functionalities
+
+Site URL: https://barath-sermaperumal.github.io/Shopit/
+
