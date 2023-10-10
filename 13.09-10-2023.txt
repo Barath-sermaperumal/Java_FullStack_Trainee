@@ -1,0 +1,7 @@
+JQuery Basics
+Ajax
+form validation using JQuery
+TypeScript
+datatypes : null,never,any,unefined
+TypeScript setup
+Todo appication using TypeScript
