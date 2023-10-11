@@ -1,0 +1,5 @@
+TypeScript
+Arrays
+Interfaces
+type 
+Student Attendance managment SPA using TypeScript
