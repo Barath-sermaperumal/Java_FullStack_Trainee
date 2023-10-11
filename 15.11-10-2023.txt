@@ -1,0 +1,5 @@
+Attendance managment SPA
+Date object in ts
+Angular setup
+Angular file structure
+Todo application using Angular
