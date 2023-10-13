@@ -1,0 +1,27 @@
+Routing
+setting path and the components in the app routing module
+router link ="/"
+getting products id
+constructors
+router & activatedroute
+navigate keyword to change the router
+
+==========================
+
+1.login --> design
+register --> design
+home
+cart
+orders
+navbar
+
+app components
+navbar
+routeroutlet 
+
+2.name 
+pnone
+email
+button
+
+add,delete,edit,view
