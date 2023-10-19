@@ -1,0 +1,17 @@
+Ecom using Angular
+functionalities done
+add to cart
+returning count 
+total count
+Checkout
+Cart with auth guard.
+
+Completed the application for forms using angular for the following fields and operations.
+    *Name 
+    *Phone Number 
+    *E-mail 
+    *Operations 
+        1.Add 
+        2.Edit 
+        3.Delete 
+        4.View
