@@ -1,0 +1,40 @@
+Java
+============================================================
+
+errors
+------
+Integer Number too long
+array dimension missing
+illegal start of expression
+not a statement
+cannot find symbol
+index out of bound 
+only one public class
+
+
+conditional statements
+----------------------
+switch
+if
+nested if
+
+
+loop
+----
+for loop
+while loop
+do while loop
+
+
+operators
+----------
++ - * / % && ||
+
+
+importing Math
+string
+string buffer
+string builder
+
+
+Developing a ATM functions using java

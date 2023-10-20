@@ -1,0 +1,10 @@
+Hosted the assesments to github using angular cli
+
+developed individual cart for each and every user
+Orders page to display the ordered pages
+lotties
+canActivate
+
+
+form url : https://barath-sermaperumal.github.io/form/
+ecom url : https://barath-sermaperumal.github.io/cart/
