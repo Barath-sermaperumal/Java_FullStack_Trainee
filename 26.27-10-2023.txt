@@ -1,0 +1,16 @@
+Task
+----
+User
+----
+View
+->Category
+->Products
+->Cart 
+->Orders
+ 
+Admin
+-----
+CRUD
+->Category
+->Product
+->User
