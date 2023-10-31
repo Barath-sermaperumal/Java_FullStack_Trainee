@@ -1,0 +1,19 @@
+Java-8
+------
+Thread
+run function
+two methods -> extending thread, implementing runnable
+consumer -> 1 argument return void
+biconsumer -> 2 argument return void
+predicate -> 1 argument return boolean
+bipredicate -> 2 argument return boolean
+function -> 2 argument return Map
+bifunction -> 3 argument return Map
+Stream
+lambda -> similar to arrow function
+chain function
+sorted
+reversed
+toList
+Stream
+string functions
