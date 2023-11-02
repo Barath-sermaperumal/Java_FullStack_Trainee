@@ -1,0 +1,22 @@
+SQL queries
+=============
+insert
+select
+update 
+delete
+auto increment
+primary key
+adding foriegn key constraint
+inner joins
+alias
+
+develop a e com db
+-------------------
+tables
+role
+user
+products
+cart
+orders
+order details
+status

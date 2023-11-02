@@ -1,0 +1,13 @@
+ACID
+----
+A- whether should run all or else dont run anything
+C - it should run the particualar query n number of times as same as the first times
+I - isolation if multiple queries were running on background it shouldnt affect eachother
+D - should manage while power off or server down
+
+Servlet
+-------
+servlet mapping
+http session
+cookies
+printwritter
