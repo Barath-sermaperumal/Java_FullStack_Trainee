@@ -1,0 +1,16 @@
+Ticket Reservation System
+----------------------
+
+->API Call
+
+User
+----
+->Get Event by id
+->View and edit profile
+->view past Reservation
+->View current Reservation
+->Modify reservation
+
+Admin
+-----
+->Staff report

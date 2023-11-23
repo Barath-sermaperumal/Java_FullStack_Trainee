@@ -1,0 +1,11 @@
+Ticket Reservation System
+----------------------
+->Define Module
+->Created Schema
+->Foreign key mapping
+->Listed API to be made
+
+Admin api
+---------
+->PUT, POST,Delete,GET on Event
+->PUT, POST,Delete,GET on Category

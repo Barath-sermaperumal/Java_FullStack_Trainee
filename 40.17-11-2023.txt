@@ -1,0 +1,26 @@
+Lottiee
+-------
+package.json
+assets
+
+CorsConfid
+Make change in security config
+
+
+Google Font ->import url and importmin body
+TailWind -> color
+
+!important->override bootstrap
+
+UI 
+--
+Authentication
+--------------
+->Login 
+->Register
+
+User
+----
+->Home Page
+->Profile Page
+->Ticket booking page

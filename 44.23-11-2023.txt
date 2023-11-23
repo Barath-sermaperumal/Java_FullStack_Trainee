@@ -1,0 +1,4 @@
+Responsive seating arrangment
+local storage for seating arrangment
+post methods
+form validation
