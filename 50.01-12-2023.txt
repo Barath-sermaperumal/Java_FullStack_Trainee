@@ -1,5 +1,5 @@
 Lazy Loading
-Struct
+Struts
 Custom validations
 
 Added the lottie files to make the UI to look better
