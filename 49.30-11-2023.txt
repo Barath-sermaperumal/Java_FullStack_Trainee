@@ -1,0 +1,9 @@
+Loaded the dummy database values 
+image size fixing on the user Interface 
+
+While retrieving data from local storage the previous datas get fetched
+ -> Either we can call the fuctionality everytime on the button click
+ -> Else we can use modal to delay the process
+
+Submitted the demo video link
+https://drive.google.com/file/d/1kqmPgRxiysSLPs8kPsO8DV9Qiw66j8tW/view?usp=sharing

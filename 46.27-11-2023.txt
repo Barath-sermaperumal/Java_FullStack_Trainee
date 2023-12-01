@@ -1,0 +1,7 @@
+Add images to the database
+Logo Creation
+
+issues Faced
+============
+couldn't connect with the database for image Retrieval
+Postman didn't show the image names

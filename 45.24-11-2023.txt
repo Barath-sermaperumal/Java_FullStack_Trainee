@@ -1,0 +1,6 @@
+fixed the error on need for the reload on the page while changes occured
+
+storing the routes
+
+registration from
+fixing the overflow issues

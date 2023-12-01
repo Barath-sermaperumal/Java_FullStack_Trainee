@@ -1,0 +1,8 @@
+Deleteing the previous orders 
+Error while deleting the foreign key mapped values 
+
+to fix that error
+ => Either we can write custom query to delete the child first
+ => Or we can use the cascade to delete all the dependencies
+
+Error on loading the page while retrieving values from the local storage

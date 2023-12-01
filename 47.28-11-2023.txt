@@ -1,0 +1,9 @@
+Enhanced the User Interface
+Used gradient for the buttton colors
+
+for text gradient have to use webtoolkit
+
+Add Events component & add categories component
+Retrieving the images from the database
+
+Edit fuctionality doesn't pre fill the image names
