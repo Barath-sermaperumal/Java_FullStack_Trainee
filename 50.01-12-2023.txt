@@ -1,0 +1,11 @@
+Lazy Loading
+Struct
+Custom validations
+
+Added the lottie files to make the UI to look better
+
+Created the readme files
+Getting Datamodel from the database
+
+
+✔️ Final Submit of The Project

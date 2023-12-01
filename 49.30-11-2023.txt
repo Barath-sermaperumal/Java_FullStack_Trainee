@@ -1,5 +1,6 @@
 Loaded the dummy database values 
 image size fixing on the user Interface 
+Used to edit the logo icons
 
 While retrieving data from local storage the previous datas get fetched
  -> Either we can call the fuctionality everytime on the button click
